@@ -1,0 +1,16 @@
+﻿# Build output
+/Ink Canvas/obj
+/Ink Canvas/bin
+/.vs
+
+# Setup output (安装包)
+*.Setup.exe
+
+# NuGet
+*.nupkg
+packages/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
